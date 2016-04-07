@@ -15,4 +15,3 @@ In this project, we did intensively data cleaning, including:
 We are then able to find the moive with the best ranking and saw by most people by calculating and plotting. We also analyze how different groups of people like each Star Wars movie by splitting the dataset into groups based on certain criteria, such as whether they are fans of the Star Wars movies.
 
 The result is Episode V is most popular and has the highest ranking in both groups. Also fans tend to watch every episode, so there is no obvious difference of times seen and ranking between each episode. However, in the group of nonfans, the differences are more obvious. Most people have seen the Episode V and least people have seen the Episode III.
-.
